@@ -4,12 +4,12 @@
   "description": "this example is demo server node js",
   "main": "main.js",
   "dependencies": {
-    "server": "^1.0.18"
+    "express": "^4.16.4"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	  "start": "node main.js"
+    "start": "node main.js"
   },
   "repository": {
     "type": "git",

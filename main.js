@@ -1,10 +1,7 @@
-// Include it and extract some methods for convenience
-const server = require('server');
-const { get, post } = server.router;
+const express = require('express')
+const app = express()
+const port = 3000
 
-// Launch server with options and a couple of routes
-server({ port: 8080 }, [
-  get('/', ctx => 'Hello world'),
-  post('/', ctx => console.log(ctx.data)),
-  get('/apple-app-site-association',  ctx => 'Hello world')
-]);
+app.get('/', (req, res) => res.send('Hello World!'))
+
+app.listen(port, () => console.log(`Example app listening on port ${port}!`))
