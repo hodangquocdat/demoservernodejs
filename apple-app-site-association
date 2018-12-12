@@ -1,0 +1,11 @@
+{
+  "applinks": {
+       "apps": [],
+        "details": [
+           {
+               "appID":"V2GWF78A6U.com.entertainmentsoc.esoc",
+               "paths":[ "*" ]
+           }
+         ]
+    }
+}
