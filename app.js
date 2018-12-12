@@ -24,16 +24,19 @@ app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.get('/apple-app-site-association', function (req, res) {
   res.send({
-  applinks: {
-       apps: [],
-        details: [
-           {
-               appID:'V2GWF78A6U.com.entertainmentsoc.esoc',
-               paths:[ '*' ]
-           }
-         ]
-    }
+    applinks: {
+         apps: [],
+          details: [
+             {
+                 appID:'V2GWF78A6U.com.entertainmentsoc.esoc',
+                 paths:[ '/SignupInterstitial.jsp' ]
+             }
+           ]
+      }
+  })
 })
+app.get('/SignupInterstitial.jsp', function (req, res) {
+  res.send({ some: 'json' })
 })
 
 // catch 404 and forward to error handler
