@@ -31,7 +31,8 @@ app.get('/apple-app-site-association', function (req, res) {
                  appID:'V2GWF78A6U.com.entertainmentsoc.esoc',
                  paths:[ '/SignupInterstitial',
                           'NOT *',
-                        'NOT /']
+                        'NOT /',
+                      'NOT /hodangquocdat/*']
              }
            ]
       }
