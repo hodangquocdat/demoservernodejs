@@ -23,12 +23,12 @@ app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.get('/apple-app-site-association', function (req, res) {
   res.send({
-  "applinks": {
-       "apps": [],
-        "details": [
+  applinks: {
+       apps: [],
+        details: [
            {
-               "appID":"V2GWF78A6U.com.entertainmentsoc.esoc",
-               "paths":[ "*" ]
+               appID:'V2GWF78A6U.com.entertainmentsoc.esoc',
+               paths:[ '*' ]
            }
          ]
     }
