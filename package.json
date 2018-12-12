@@ -1,6 +1,6 @@
 {
   "name": "demoservernodejs",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -12,5 +12,18 @@
     "http-errors": "~1.6.2",
     "morgan": "~1.9.0",
     "pug": "2.0.0-beta11"
-  }
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hodangquocdat/demoservernodejs.git"
+  },
+  "author": "Dat Ho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hodangquocdat/demoservernodejs/issues"
+  },
+  "homepage": "https://github.com/hodangquocdat/demoservernodejs#readme",
+  "description": ""
 }
