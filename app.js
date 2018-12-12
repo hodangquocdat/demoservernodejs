@@ -29,7 +29,9 @@ app.get('/apple-app-site-association', function (req, res) {
           details: [
              {
                  appID:'V2GWF78A6U.com.entertainmentsoc.esoc',
-                 paths:[ '/SignupInterstitial.jsp' ]
+                 paths:[ '/SignupInterstitial',
+                          'NOT *',
+                        'NOT /']
              }
            ]
       }
