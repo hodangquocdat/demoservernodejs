@@ -7,12 +7,12 @@ server({ port: 8080 }, [
   get('/', ctx => 'Hello world'),
   post('/', ctx => console.log(ctx.data)),
   get('/apple-app-site-association', (req, res) => res.json({
-  "applinks": {
-       "apps": [],
-        "details": [
+  applinks: {
+       apps: [],
+        details: [
            {
-               "appID":"V2GWF78A6U.com.entertainmentsoc.esoc",
-               "paths":[ "*" ]
+               appID:"V2GWF78A6U.com.entertainmentsoc.esoc",
+               paths:[ "*" ]
            }
          ]
     }
