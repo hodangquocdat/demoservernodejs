@@ -22,7 +22,17 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.get('/apple-app-site-association', function (req, res) {
-  res.send({ some: 'json' })
+  res.send({
+  "applinks": {
+       "apps": [],
+        "details": [
+           {
+               "appID":"V2GWF78A6U.com.entertainmentsoc.esoc",
+               "paths":[ "*" ]
+           }
+         ]
+    }
+})
 })
 
 // catch 404 and forward to error handler
