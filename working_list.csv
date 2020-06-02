@@ -1,0 +1,106 @@
+﻿Id,Floor,Working Name,Assigned,Note,,,,,,,,,
+1,Tầng G,Dọn sàn,Chị Đài_1,,,,,,,,Building Level,Cleaner,Working Name
+2,Tầng G,Dọn khu vực cầu thang,Chị Đài_1,,,,,,,,Tầng hầm,Chị Đài_1,Dọn sàn
+3,Tầng G,Dọn Phòng họp Jupiter,Chị Đài_1,,,,,,,,Tầng G,Cô Chín_2,Dọn khu vực cầu thang
+4,Tầng G,Dọn rác,Chị Đài_1,,,,,,,,Tầng 1,,Dọn rác
+5,Tầng G,Thay khăn lau Lavabo trong Toilet,Chị Đài_1,,,,,,,,Tầng 2,,Thay khăn lau Lavabo trong Toilet
+6,Tầng G,Dọn vệ sinh Toilet ,Chị Đài_1,,,,,,,,Tầng 3,,Dọn vệ sinh Toilet 
+7,Tầng G,"Lau cửa sổ, kính ",Chị Đài_1,,,,,,,,Tầng 5,,"Lau cửa sổ, kính "
+8,Tầng G,Lau máy nước nóng lạnh ,Chị Đài_1,,,,,,,,Tầng 6,,Lau máy nước nóng lạnh 
+9,Tầng G,Kiểm tra và bố trí ly giấy,Chị Đài_1,,,,,,,,Tầng Thượng,,Hút bụi 
+10,Tầng G,Hút bụi ,Chị Đài_1,2 ngày 1 tuần,,,,,,,Hạng mục sát khuẩn - kiểm tra,,Dọn Phòng họp Jupiter
+11,Tầng 1,Dọn sàn,Cô Chín_2,,,,,,,,,,Kiểm tra và bố trí ly giấy
+12,Tầng 1,Dọn khu vực cầu thang,Cô Chín_2,,,,,,,,,,Dọn Pantry
+13,Tầng 1,Dọn Pantry,Cô Chín_2,,,,,,,,,,Kiểm tra và lau tủ lạnh
+14,Tầng 1,Dọn Phòng họp,Cô Chín_2,,,,,,,,,,Dọn máy pha café
+15,Tầng 1,Dọn rác,Cô Chín_2,,,,,,,,,,Lau chỗ để máy in
+16,Tầng 1,Thay khăn lau Lavabo trong Toilet,Cô Chín_2,,,,,,,,,,Xông tinh dầu
+17,Tầng 1,Dọn vệ sinh Toilet ,Cô Chín_2,,,,,,,,,,"Dọn bàn, ghế"
+18,Tầng 1,"Lau cửa sổ, kính ",Cô Chín_2,,,,,,,,,," Lau cửa sổ, kính , khung tranh, kệ"
+19,Tầng 1,Lau máy nước nóng lạnh ,Cô Chín_2,,,,,,,,,, Dọn bàn Billac
+20,Tầng 1,Kiểm tra và lau tủ lạnh,Cô Chín_2,Chiều thứ 6,,,,,,,,, Dọn bồn rửa chén
+21,Tầng 1,Hút bụi ,Cô Chín_2,2 ngày 1 tuần,,,,,,,,, Lau tay nắm cửa ra vào các tầng
+22,Tầng 1,Dọn máy pha café,Cô Chín_2,,,,,,,,,,Lau thang máy
+23,Tầng 1,Lau chỗ để máy in,Cô Chín_2,,,,,,,,,, Tẩy Toilet bằng dung dịch tẩy
+24,Tầng 2,Dọn sàn,Chị Đài_1,,,,,,,,,, Tưới cây
+25,Tầng 2,Dọn khu vực cầu thang,Chị Đài_1,,,,,,,,,, Giặt thảm
+26,Tầng 2,Dọn Pantry,Chị Đài_1,,,,,,,,,, Dọn tầng hầm
+27,Tầng 2,Dọn rác,Chị Đài_1,,,,,,,,,, Lau Điện thoại bàn
+28,Tầng 2,Thay khăn lau Lavabo trong Toilet,Chị Đài_1,,,,,,,,,, Thay nước chậu thủy sinh
+29,Tầng 2,Dọn vệ sinh Toilet ,Chị Đài_1,,,,,,,,,," Kiểm tra tình trạng Toilet Tầng 1, 3, 5"
+30,Tầng 2,"Lau cửa sổ, kính ",Chị Đài_1,,,,,,,,,," Kiểm tra tình trạng vệ sinh khu vực tầng 1,3, 5"
+31,Tầng 2,Lau máy nước nóng lạnh ,Chị Đài_1,,,,,,,,,,Dọn Phòng họp
+32,Tầng 2,Kiểm tra và lau tủ lạnh,Chị Đài_1,Chiều thứ 6 ,,,,,,,,,
+33,Tầng 2,Hút bụi ,Chị Đài_1,2 ngày 1 tuần,,,,,,,,,
+34,Tầng 2,Dọn máy pha café,Chị Đài_1,,,,,,,,,,
+35,Tầng 2,Lau chỗ để máy in,Chị Đài_1,,,,,,,,,,
+36,Tầng 2,Xông tinh dầu,Chị Đài_1,Sáng,,,,,,,,,
+37,Tầng 3,Dọn sàn,Cô Chín_2,,,,,,,,,,
+38,Tầng 3,Dọn khu vực cầu thang,Cô Chín_2,,,,,,,,,,
+39,Tầng 3,Dọn Pantry,Cô Chín_2,,,,,,,,,,
+40,Tầng 3,Dọn rác,Cô Chín_2,,,,,,,,,,
+41,Tầng 3,Thay khăn lau Lavabo trong Toilet,Cô Chín_2,,,,,,,,,,
+42,Tầng 3,Dọn vệ sinh Toilet ,Cô Chín_2,,,,,,,,,,
+43,Tầng 3,"Lau cửa sổ, kính ",Cô Chín_2,,,,,,,,,,
+44,Tầng 3,Lau máy nước nóng lạnh ,Cô Chín_2,,,,,,,,,,
+45,Tầng 3,Kiểm tra và lau tủ lạnh,Cô Chín_2,Chiều thứ 6 ,,,,,,,,,
+46,Tầng 3,Hút bụi ,Cô Chín_2,2 ngày 1 tuần,,,,,,,,,
+47,Tầng 3,Dọn máy pha café,Cô Chín_2,,,,,,,,,,
+48,Tầng 3,Lau chỗ để máy in,Cô Chín_2,,,,,,,,,,
+49,Tầng 3,Xông tinh dầu,Cô Chín_2,Sáng,,,,,,,,,
+50,Tầng 5,Dọn sàn,Cô Chín_2,,,,,,,,,,
+51,Tầng 5,Dọn khu vực cầu thang,Cô Chín_2,,,,,,,,,,
+52,Tầng 5,Dọn Pantry,Cô Chín_2,,,,,,,,,,
+53,Tầng 5,Dọn rác,Cô Chín_2,,,,,,,,,,
+54,Tầng 5,Thay khăn lau Lavabo trong Toilet,Cô Chín_2,,,,,,,,,,
+55,Tầng 5,Dọn vệ sinh Toilet ,Cô Chín_2,,,,,,,,,,
+56,Tầng 5,"Lau cửa sổ, kính ",Cô Chín_2,,,,,,,,,,
+57,Tầng 5,Lau máy nước nóng lạnh ,Cô Chín_2,,,,,,,,,,
+58,Tầng 5,Kiểm tra và lau tủ lạnh,Cô Chín_2,Chiều thứ 6 ,,,,,,,,,
+59,Tầng 5,Hút bụi ,Cô Chín_2,2 ngày 1 tuần,,,,,,,,,
+60,Tầng 5,Dọn máy pha café,Cô Chín_2,,,,,,,,,,
+61,Tầng 5,Lau chỗ để máy in,Cô Chín_2,,,,,,,,,,
+62,Tầng 5,Xông tinh dầu,Cô Chín_2,Sáng,,,,,,,,,
+63,Tầng 6,Dọn sàn,Chị Đài_1,,,,,,,,,,
+64,Tầng 6,Dọn khu vực cầu thang,Chị Đài_1,,,,,,,,,,
+65,Tầng 6,Dọn Pantry,Chị Đài_1,,,,,,,,,,
+66,Tầng 6,Dọn rác,Chị Đài_1,,,,,,,,,,
+67,Tầng 6,Thay khăn lau Lavabo trong Toilet,Chị Đài_1,,,,,,,,,,
+68,Tầng 6,Dọn vệ sinh Toilet ,Chị Đài_1,,,,,,,,,,
+69,Tầng 6,"Lau cửa sổ, kính ",Chị Đài_1,,,,,,,,,,
+70,Tầng 6,Lau máy nước nóng lạnh ,Chị Đài_1,,,,,,,,,,
+71,Tầng 6,Kiểm tra và lau tủ lạnh,Chị Đài_1,Chiều thứ 6 ,,,,,,,,,
+72,Tầng 6,Hút bụi ,Chị Đài_1,2 ngày 1 tuần,,,,,,,,,
+73,Tầng 6,Dọn máy pha café,Chị Đài_1,,,,,,,,,,
+74,Tầng 6,Lau chỗ để máy in,Chị Đài_1,,,,,,,,,,
+75,Tầng 6,Xông tinh dầu,Chị Đài_1,Sáng,,,,,,,,,
+76,Tầng Thượng,Dọn sàn,Chị Đài_1,,,,,,,,,,
+77,Tầng Thượng,Dọn khu vực cầu thang,Chị Đài_1,,,,,,,,,,
+78,Tầng Thượng,"Dọn bàn, ghế",Chị Đài_1,,,,,,,,,,
+79,Tầng Thượng,Dọn rác,Chị Đài_1,,,,,,,,,,
+80,Tầng Thượng,Thay khăn lau Lavabo trong Toilet,Chị Đài_1,,,,,,,,,,
+81,Tầng Thượng,Dọn vệ sinh Toilet ,Chị Đài_1,,,,,,,,,,
+82,Tầng Thượng," Lau cửa sổ, kính , khung tranh, kệ",Chị Đài_1,,,,,,,,,,
+83,Tầng Thượng,Lau máy nước nóng lạnh ,Chị Đài_1,,,,,,,,,,
+84,Tầng Thượng,Kiểm tra và lau tủ lạnh,Chị Đài_1,Chiều thứ 6 ,,,,,,,,,
+85,Tầng Thượng,Hút bụi ,Chị Đài_1,Tuần 1 lần,,,,,,,,,
+86,Tầng Thượng, Dọn bàn Billac,Chị Đài_1,2 ngày/tuần,,,,,,,,,
+87,Tầng Thượng, Dọn bồn rửa chén,Chị Đài_1,,,,,,,,,,
+88,Hạng mục sát khuẩn - kiểm tra, Lau tay nắm cửa ra vào các tầng,Chị Đài_1,Sáng: 10h - 11h,,,,,,,,,
+89,Hạng mục sát khuẩn - kiểm tra,Lau thang máy,Chị Đài_1,Sáng: 10h - 11h,,,,,,,,,
+90,Hạng mục sát khuẩn - kiểm tra, Tẩy Toilet bằng dung dịch tẩy,Chị Đài_1,"Chiều 2,4,6",,,,,,,,,
+91,Hạng mục sát khuẩn - kiểm tra, Tưới cây,Chị Đài_1,Sáng trước 10h,,,,,,,,,
+92,Hạng mục sát khuẩn - kiểm tra, Giặt thảm,Chị Đài_1,Chiều ,,,,,,,,,
+93,Hạng mục sát khuẩn - kiểm tra, Dọn tầng hầm,Chị Đài_1,Sáng,,,,,,,,,
+94,Hạng mục sát khuẩn - kiểm tra, Lau Điện thoại bàn,Chị Đài_1,2 ngày 1 tuần,,,,,,,,,
+95,Hạng mục sát khuẩn - kiểm tra, Thay nước chậu thủy sinh,Chị Đài_1,2 ngày 1 tuần,,,,,,,,,
+96,Hạng mục sát khuẩn - kiểm tra," Kiểm tra tình trạng Toilet Tầng 1, 3, 5",Chị Đài_1,Sáng trước 10h,,,,,,,,,
+97,Hạng mục sát khuẩn - kiểm tra," Kiểm tra tình trạng vệ sinh khu vực tầng 1,3, 5",Chị Đài_1,Sáng trước 10h,,,,,,,,,
+98,Hạng mục sát khuẩn - kiểm tra, Lau tay nắm cửa ra vào các tầng,Cô Chín_2,Chiều: 13h00 - 14h00,,,,,,,,,
+99,Hạng mục sát khuẩn - kiểm tra,Lau thang máy,Cô Chín_2,Chiều: 13h00 - 14h00,,,,,,,,,
+100,Hạng mục sát khuẩn - kiểm tra, Tẩy Toilet bằng dung dịch tẩy,Cô Chín_2,"Chiều 2,4,6",,,,,,,,,
+101,Hạng mục sát khuẩn - kiểm tra, Tưới cây,Cô Chín_2,Chiều trước 17h00,,,,,,,,,
+102,Hạng mục sát khuẩn - kiểm tra, Giặt thảm,Cô Chín_2,Chiều ,,,,,,,,,
+103,Hạng mục sát khuẩn - kiểm tra, Dọn tầng hầm,Cô Chín_2,Chiều,,,,,,,,,
+104,Hạng mục sát khuẩn - kiểm tra, Lau Điện thoại bàn,Cô Chín_2,2 ngày 1 tuần,,,,,,,,,
+105,Hạng mục sát khuẩn - kiểm tra, Thay nước chậu thủy sinh,Cô Chín_2,2 ngày 1 tuần,,,,,,,,,
